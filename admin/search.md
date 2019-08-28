@@ -1,8 +1,10 @@
-# Advanced Search for Bookings and Illegal Dumping Reports
+# Searching bookings or dumping reports
+
 The search section provides more granular filtering options for all bookings in the system.
 
-![search](search-1.png)
+![search](../.gitbook/assets/search-1.png)
 
 The search results returned by this advanced filtering will look as follows:
 
-![search2](search-2.png)
+![search2](../.gitbook/assets/search-2.png)
+
