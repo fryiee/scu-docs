@@ -26,6 +26,8 @@
 
   dropdowns with the appropriate information for that address.
 
+* If the address doesn't exist in the system, it will be automatically added.
+
 ![address](../.gitbook/assets/booking-4%20%281%29.png)
 
 ### Pickup Information
