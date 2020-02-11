@@ -14,7 +14,8 @@
 * [Adding or editing a Truck](admin/truck.md)
 * [Adding or editing a Shift](admin/shift.md)
 * [Creating and editing a route](admin/route.md)
-* [Adding and editing blogs](admin/adding-and-editing-blogs.md)
+* [Adding and editing blogs](admin/adding-and-editing-blogs/README.md)
+  * [Adding and editing FAQs](admin/adding-and-editing-blogs/adding-and-editing-faqs.md)
 
 ## Driver
 
