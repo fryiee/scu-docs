@@ -10,6 +10,7 @@
 * [Searching bookings or dumping reports](admin/search.md)
 * [Booking or Dumping Report Reports](admin/reports.md)
 * [Adding or Editing an Address](admin/address.md)
+* [Blocking an Address](admin/blocking-an-address.md)
 * [Adding or editing a Driver](admin/driver.md)
 * [Adding or editing a Truck](admin/truck.md)
 * [Adding or editing a Shift](admin/shift.md)
